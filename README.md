@@ -4,7 +4,7 @@
 # Image-Caption-Generator-Using-Deep-Learning
 <p>A Deep Neural Network based generative model for captioning images using CNN and LSTM with BEAM Search..</p>
 <p>Automatically generates captions for an image using CNN and NLP. Model was trained on Flickr30K dataset.</p>
-<p>Kaggle kernel: <a href="https://www.kaggle.com/ntikmr/image-captioning">https://www.kaggle.com/ntikmr/image-captioning</a>
+
 
 <h2>Steps to install</h2>
 <ul>
